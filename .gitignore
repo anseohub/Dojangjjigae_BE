@@ -1,0 +1,11 @@
+target/
+data/
+*.iml
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# API keys
+.env
+.env.*
